@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @koentibben;
+- 👀 I’m interested in web, technology, sports and music;
+- 🌱 I’m currently learning CSS, JavaScript and related frameworks.
